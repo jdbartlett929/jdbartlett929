@@ -69,3 +69,5 @@ The full site includes additional projects, live demos, screenshots, and an inte
 [Portfolio](https://julian-portfolio-teal.vercel.app) • [LinkedIn](https://www.linkedin.com/in/julian-b-bbba61331/) • [Email](mailto:jdbartlett@aggies.ncat.edu)
 
 </div>
+
+<!-- recruiter-profile -->
